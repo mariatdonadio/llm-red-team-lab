@@ -1,0 +1,6 @@
+{
+  "uri": "http://localhost:8000/chat",
+  "method": "POST",
+  "req_template": "{\"message\": \"$prompt\"}",
+  "response_json_field": "response"
+}
